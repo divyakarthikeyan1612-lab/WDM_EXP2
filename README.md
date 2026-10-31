@@ -56,3 +56,4 @@ G40,high,yes,excellent,yes
 <img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/0585e5ba-3e69-4eca-9010-924c62ad9a44" />
 
 ### RESULT: 
+Thus, the association rules for the Buying dataset were generated successfully using the Apriori algorithm in WEKA.
